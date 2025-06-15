@@ -13,7 +13,7 @@
 
 - 🛠️ Learning **JavaScript**, **DSA in C++**, and **Python for AI**
 - 🎮 Developing a cross-platform **3D Game Engine** (OpenGL + C++)
-
+- 🐧 I use Arch btw
 ---
 
 ### 🧰 Tech Stack
