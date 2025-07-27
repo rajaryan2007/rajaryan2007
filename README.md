@@ -62,5 +62,7 @@
 - Land internships or freelance gigs by the end of 12th
 
 ---
+![snake gif](https://github.com/raj-aryan/raj-aryan/blob/output/github-contribution-grid-snake.svg)
+
 
 
