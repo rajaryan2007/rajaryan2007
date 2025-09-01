@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Raj Aryan 👋</h1>
-<h3 align="center">🚀 Class 12 PCM Student | 💻 Future Full-Stack & Game Engine Dev</h3>
+<h3 align="center"> 💻 Future Full-Stack & Game Engine Dev</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Dev+%E2%9C%8C%EF%B8%8F;DSA+%7C+AI%2FML+%7C+OpenGL+%2B+Vulkan+Engine+Builder;Learning+%7C+Building+%7C+Evolving" alt="Typing SVG" />
 </p>
@@ -8,7 +8,7 @@
 
 ### 🔥 About Me
 
-- 🧠 I’m currently in **Class 12**
+- 
 - 🎯 Aiming career in **AI, ML, and Game Dev**
 - 🛠️ Learning **JavaScript**, **React**, **Node.js**, **DSA in C++**, and **Python for AI**
 - 🎮 Building a cross-platform **3D Game Engine** (OpenGL + Vulkan + C++)
