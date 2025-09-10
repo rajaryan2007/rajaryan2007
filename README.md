@@ -55,11 +55,10 @@
 
 ### 🎯 Current Goals
 
-- Finish **Sigma Web Dev Course** & build advanced web projects using **React** and **Node.js**
+
 - Master **DSA** — up to hard-level LeetCode problems in C++
 - Learn core AI/ML with **Python** and **Math foundations**
 - Explore **Vulkan** for high-performance game engine rendering
-- Land internships or freelance gigs by the end of 12th
 
 ---
  Contribution 
