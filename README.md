@@ -41,6 +41,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajaryan2007&theme=radical" alt="GitHub Streak" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaryan2007&layout=compact&theme=radical" />
+
 ---
 
 ### 📈 LeetCode Profile
