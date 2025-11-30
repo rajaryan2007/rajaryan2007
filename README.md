@@ -20,12 +20,7 @@
 
 <p align="center">
   <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB3aWR0aD0iNDAiIGhlaWdodD0iNDAiPgogIDwhLS0gT3V0ZXIgY2lyY2xlIGJhY2tncm91bmQgKFZ1bGthbiBjb2xvcikgLS0+CiAgPGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgcj0iNTAiIGZpbGw9IiNDNzNGNDciLz4KICA8IS0tIFRoZSB3aGl0ZSBzdGFyL3RyaWFuZ2xlIHNoYXBlIC0tPgogIDxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik01MCAyMCBMNzUgODAgTDI1IDgwIFoiLz4KICA8IS0tIFNtYWxsZXIgdHJpYW5nbGVzIGNyZWF0aW5nIHRoZSBjdXRvdXQgZWZmZWN0IC0tPgogIDxwYXRoIGZpbGw9IiNDNzNGNDciIGQ9Ik01MCAzNSBMNjggNzAgTDMyIDcwIFoiLz4KPC9zdmc+" alt="Vulkan" />
- 
-  [![Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,react,nextjs,nodejs,express,cmake,docker,jenkins,git,github,postgres,mongodb,mysql&theme=light)](https://skillicons.dev)
-</p>
-
----
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="40" height="40">
+ <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="40" height="40">
   <defs>
     <style>.cls-1{fill:#373c43;}.cls-2{fill:#fff;}</style>
   </defs>
@@ -37,6 +32,11 @@
     </g>
   </g>
 </svg>
+  [![Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,react,nextjs,nodejs,express,cmake,docker,jenkins,git,github,postgres,mongodb,mysql&theme=light)](https://skillicons.dev)
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
