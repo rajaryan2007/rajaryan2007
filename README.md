@@ -20,9 +20,9 @@
 
 <p align="center">
 
- [![Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,react,nextjs,nodejs,express,nestjs,cmake,docker,jenkins,git,github,postgres,mongodb,grafana,godot,blender&theme=light)](https://skillicons.dev)
-<img src="https://icon.icepanel.io/Technology/svg/OpenGL.svg" height="48" />
-<img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/5/vulkan-qr69hzka3pgnv90rrx3fua.png/vulkan-tfc07o70fq7dauzztdydba.png?_a=DATAg1fmZAA0" height="48" />
+[![Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,react,nextjs,nodejs,express,nestjs,cmake,docker,jenkins,git,github,postgres,mongodb,grafana,godot,blender&theme=light)](https://skillicons.dev)
+<img src="https://icon.icepanel.io/Technology/svg/OpenGL.svg" width="48" height="48" style="vertical-align:middle;" />
+<img src="https://www.svgrepo.com/show/354529/vulkan.svg" width="48" height="48" style="vertical-align:middle;" />
 
 </p>
 
