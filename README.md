@@ -18,9 +18,10 @@
 
 ### 🧰 Tech Stack
 
-[![Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,react,nextjs,nodejs,express,nestjs,cmake,docker,jenkins,git,github,postgres,mongodb,grafana,godot,blender&theme=light)](https://skillicons.dev)
-<img src="https://skillicons.dev/icons?i=vulkan" alt="Vulkan" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" alt="OpenGL" width="40" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,react,nextjs,nodejs,express,vulkan,cmake,docker,jenkins,git,github,postgres,mongodb,mysql&theme=light" alt="Skills Badge"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" alt="OpenGL" width="40" height="40"/>
+</p>
 
 
 ---
