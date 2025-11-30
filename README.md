@@ -21,8 +21,11 @@
 <p align="center">
 
 [![Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,react,nextjs,nodejs,express,nestjs,cmake,docker,jenkins,git,github,postgres,mongodb,grafana,godot,blender&theme=light)](https://skillicons.dev)
-<img src="https://icon.icepanel.io/Technology/svg/OpenGL.svg" width="48" height="48" style="vertical-align:middle;" />
-<img src="https://www.svgrepo.com/show/354529/vulkan.svg" width="48" height="48" style="vertical-align:middle;" />
+
+<span>
+  <img src="https://icon.icepanel.io/Technology/svg/OpenGL.svg" width="48" height="48" style="vertical-align:middle;" />
+  <img src="https://www.svgrepo.com/show/354529/vulkan.svg" width="48" height="48" style="vertical-align:middle;" />
+</span>
 
 </p>
 
