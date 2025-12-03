@@ -51,16 +51,7 @@
   <img src="https://leetcard.jacoblin.cool/rajaryan24?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
----
 
-### 🎯 Current Goals
-
-
-- Master **DSA** — up to hard-level LeetCode problems in C++
-- Learn core AI/ML with **Python** and **Math foundations**
-- Explore **Vulkan** for high-performance game engine rendering
-
----
  Contribution 
 
 
