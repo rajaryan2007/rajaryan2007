@@ -20,7 +20,7 @@
 
 <p align="center">
 
-[![Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,react,nextjs,nodejs,express,nestjs,cmake,docker,jenkins,git,github,postgres,mongodb,grafana,vscodium,visualstudio,prisma,arch,godot,blender&theme=light)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,react,nextjs,nodejs,express,nestjs,cmake,docker,git,github,postgres,mongodb,visualstudio,prisma,arch,blender&theme=light)](https://skillicons.dev)
 
 <span>
   <img src="https://icon.icepanel.io/Technology/svg/OpenGL.svg" width="48" height="48" style="vertical-align:middle;" />
