@@ -38,11 +38,11 @@
 </p>
 
 <p align="center">
-  <img src="https://icon.icepanel.io/Technology/svg/OpenGL.svg" width="42">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vulkan.svg" width="42">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" width="42">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nodedotjs.svg" width="42">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nextdotjs.svg" width="42">
+  <img src="https://icon.icepanel.io/Technology/svg/OpenGL.svg" height="50" style="margin:10px" />
+  <img src="https://www.svgrepo.com/show/354529/vulkan.svg" height="50" style="margin:10px" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" style="margin:10px" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" style="margin:10px" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/white" height="50" style="margin:10px" />
 </p>
 
 ---
