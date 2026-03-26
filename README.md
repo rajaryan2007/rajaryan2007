@@ -22,10 +22,10 @@
 ---
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/vlc/cba6f7" width="25" /> <b>PROFILE</b>
+<img src="https://cdn.simpleicons.org/v8/cba6f7" width="25" /> <b>SYSTEM_ARCHITECTURE</b>
 </p>
 
-<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBicHlxbmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpx6p3CC7mS4/giphy.gif">
+<img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBicHlxbmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpx6p3CC7mS4/giphy.gif">
 
 - **Full Stack Developer** specializing in high-performance systems.
 - Developing a **3D Game Engine** utilizing **OpenGL + Vulkan**.
@@ -38,19 +38,19 @@
 ---
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/probot/cba6f7" width="25" /> <b>TECH STACK</b>
+<img src="https://cdn.simpleicons.org/codefactor/cba6f7" width="25" /> <b>CORE_TECHNOLOGIES</b>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,nestjs,docker,git,github,postgres,mongodb,arch,blender&theme=dark">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,nestjs,postgres,mongodb,docker,git,arch,blender&theme=dark">
 </p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/opengl/ffffff" height="40" style="margin:10px" />
-  <img src="https://cdn.simpleicons.org/vulkan/ffffff" height="40" style="margin:10px" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" style="margin:10px" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" style="margin:10px" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="40" style="margin:10px" />
+  <img src="https://cdn.simpleicons.org/opengl/ffffff" height="45" style="margin:10px" title="OpenGL" />
+  <img src="https://cdn.simpleicons.org/vulkan/ffffff" height="45" style="margin:10px" title="Vulkan" />
+  <img src="https://cdn.simpleicons.org/cmake/ffffff" height="45" style="margin:10px" title="CMake" />
+  <img src="https://cdn.simpleicons.org/linux/ffffff" height="45" style="margin:10px" title="Linux" />
+  <img src="https://cdn.simpleicons.org/nvidia/ffffff" height="45" style="margin:10px" title="NVIDIA" />
 </p>
 
 <br />
@@ -58,7 +58,7 @@
 ---
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/chartdotjs/cba6f7" width="25" /> <b>ANALYTICS</b>
+<img src="https://cdn.simpleicons.org/airplay/cba6f7" width="25" /> <b>DEVELOPMENT_METRICS</b>
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@
 ---
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/leetcode/cba6f7" width="25" /> <b>ALGORITHMS</b>
+<img src="https://cdn.simpleicons.org/target/cba6f7" width="25" /> <b>ALGORITHMIC_EFFICIENCY</b>
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@
 ---
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/git/cba6f7" width="25" /> <b>CONTRIBUTIONS</b>
+<img src="https://cdn.simpleicons.org/github/cba6f7" width="25" /> <b>CONTRIBUTION_GRAPH</b>
 </p>
 
 <p align="center">
