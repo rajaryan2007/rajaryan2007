@@ -57,11 +57,8 @@
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rajaryan2007&show_icons=true&theme=catppuccin_mocha&bg_color=1e1e2e&hide_border=true&title_color=cba6f7&text_color=cdd6f4&icon_color=f5e0dc">
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaryan2007&layout=compact&theme=catppuccin_mocha&bg_color=1e1e2e&hide_border=true&title_color=cba6f7&text_color=cdd6f4">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rajaryan2007&show_icons=true&theme=catppuccin_mocha&hide_border=true">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaryan2007&layout=compact&theme=catppuccin_mocha&hide_border=true">
 </p>
 
 <br />
