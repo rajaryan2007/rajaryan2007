@@ -1,15 +1,16 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/mocha_animated.gif" width="100%">
- align="center">
-p>
-<p
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=1e1e2e&section=header&text=Raj%20Aryan&fontSize=70&fontColor=cba6f7&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%203D%20Engine%20Dev&descSize=15&descAlignY=58">
 </p>
 
 <p align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=1e1e2e&section=header&text=Raj%20Aryan&fontSize=70&fontColor=cba6f7&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%203D%20Engine%20Dev&descSize=15&descAlignY=58">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=800&color=b4befe&center=true&vCenter=true&width=700&lines=Building+my+own+3D+Game+Engine;Vulkan+%2B+OpenGL+pipeline;Fullstack+%2B+DSA;while(alive)+%7B+code()+%7D">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/OS-ARCH_LINUX-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-a6e3a1?style=for-the-badge">
   <img src="https://img.shields.io/badge/FOCUS-GAME_ENGINE-eba0ac?style=for-the-badge">
