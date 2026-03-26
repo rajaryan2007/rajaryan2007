@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/OS-ARCH_LINUX-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-a6e3a1?style=for-the-badge">
   <img src="https://img.shields.io/badge/FOCUS-GAME_ENGINE-eba0ac?style=for-the-badge">
-  <img src="https://komarev.com/ghpvc/?username=rajaryan2007&label=VISITORS&color=cba6f7&style=for-the-badge">
 </p>
 
 <br />
@@ -22,7 +21,7 @@
 ---
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cpu.svg" width="22" /> <b style="color:#cba6f7">SYSTEM_ARCHITECTURE</b>
+  <img src="https://skillicons.dev/icons?i=cpp" width="22" /> <b>SYSTEM_ARCHITECTURE</b>
 </p>
 
 <img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBicHlxbmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpx6p3CC7mS4/giphy.gif">
@@ -38,7 +37,7 @@
 ---
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codefactor.svg" width="22" /> <b style="color:#cba6f7">CORE_TECHNOLOGIES</b>
+  <img src="https://skillicons.dev/icons?i=git" width="22" /> <b>CORE_TECHNOLOGIES</b>
 </p>
 
 <p align="center">
@@ -46,11 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opengl.svg" height="40" style="filter: brightness(0) invert(1); margin:10px" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vulkan.svg" height="40" style="filter: brightness(0) invert(1); margin:10px" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cmake.svg" height="40" style="filter: brightness(0) invert(1); margin:10px" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg" height="40" style="filter: brightness(0) invert(1); margin:10px" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nvidia.svg" height="40" style="filter: brightness(0) invert(1); margin:10px" />
+  <img src="https://skillicons.dev/icons?i=linux,cmake,apple,windows,gamemaker" height="45" />
 </p>
 
 <br />
@@ -58,11 +53,14 @@
 ---
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/activitypub.svg" width="22" /> <b style="color:#cba6f7">DEVELOPMENT_METRICS</b>
+  <img src="https://skillicons.dev/icons?i=discord" width="22" /> <b>DEVELOPMENT_METRICS</b>
 </p>
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=rajaryan2007&show_icons=true&theme=catppuccin_mocha&bg_color=1e1e2e&hide_border=true&title_color=cba6f7&text_color=cdd6f4&icon_color=f5e0dc">
+</p>
+
+<p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaryan2007&layout=compact&theme=catppuccin_mocha&bg_color=1e1e2e&hide_border=true&title_color=cba6f7&text_color=cdd6f4">
 </p>
 
@@ -71,23 +69,11 @@
 ---
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="22" /> <b style="color:#cba6f7">ALGORITHMIC_EFFICIENCY</b>
+  <img src="https://skillicons.dev/icons?i=github" width="22" /> <b>CONTRIBUTION_GRAPH</b>
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/rajaryan24?theme=dark&font=Fira+Code&ext=heatmap">
-</p>
-
-<br />
-
----
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="22" /> <b style="color:#cba6f7">CONTRIBUTION_GRAPH</b>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajaryan2007/rajaryan2007/output/github-snake-dark.svg" alt="snake" width="100%">
+  <img src="https://raw.githubusercontent.com/rajaryan2007/rajaryan2007/output/github-snake-dark.svg" width="100%">
 </p>
 
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/mocha_animated.gif" width="100%">
