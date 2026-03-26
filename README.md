@@ -22,7 +22,7 @@
 ---
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/v8/cba6f7" width="25" /> <b>SYSTEM_ARCHITECTURE</b>
+<img src="https://cdn.simpleicons.org/cpu/cba6f7" width="22" /> <b>SYSTEM_ARCHITECTURE</b>
 </p>
 
 <img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBicHlxbmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpx6p3CC7mS4/giphy.gif">
@@ -38,7 +38,7 @@
 ---
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/codefactor/cba6f7" width="25" /> <b>CORE_TECHNOLOGIES</b>
+<img src="https://cdn.simpleicons.org/codefactor/cba6f7" width="22" /> <b>CORE_TECHNOLOGIES</b>
 </p>
 
 <p align="center">
@@ -46,11 +46,11 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/opengl/ffffff" height="45" style="margin:10px" title="OpenGL" />
-  <img src="https://cdn.simpleicons.org/vulkan/ffffff" height="45" style="margin:10px" title="Vulkan" />
-  <img src="https://cdn.simpleicons.org/cmake/ffffff" height="45" style="margin:10px" title="CMake" />
-  <img src="https://cdn.simpleicons.org/linux/ffffff" height="45" style="margin:10px" title="Linux" />
-  <img src="https://cdn.simpleicons.org/nvidia/ffffff" height="45" style="margin:10px" title="NVIDIA" />
+  <img src="https://cdn.simpleicons.org/opengl/ffffff" height="40" style="margin:10px" />
+  <img src="https://cdn.simpleicons.org/vulkan/ffffff" height="40" style="margin:10px" />
+  <img src="https://cdn.simpleicons.org/cmake/ffffff" height="40" style="margin:10px" />
+  <img src="https://cdn.simpleicons.org/linux/ffffff" height="40" style="margin:10px" />
+  <img src="https://cdn.simpleicons.org/nvidia/ffffff" height="40" style="margin:10px" />
 </p>
 
 <br />
@@ -58,16 +58,12 @@
 ---
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/airplay/cba6f7" width="25" /> <b>DEVELOPMENT_METRICS</b>
+<img src="https://cdn.simpleicons.org/activitypub/cba6f7" width="22" /> <b>DEVELOPMENT_METRICS</b>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rajaryan2007&show_icons=true&theme=catppuccin_mocha&bg_color=1e1e2e&hide_border=true&title_color=cba6f7&text_color=cdd6f4&icon_color=f5e0dc">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rajaryan2007&theme=catppuccin_mocha&background=1e1e2e&hide_border=true&stroke=cba6f7&ring=b4befe&fire=f38ba8">
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaryan2007&layout=compact&theme=catppuccin_mocha&bg_color=1e1e2e&hide_border=true&title_color=cba6f7&text_color=cdd6f4">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rajaryan2007&show_icons=true&theme=catppuccin_mocha&bg_color=1e1e2e&hide_border=true&title_color=cba6f7&text_color=cdd6f4&icon_color=f5e0dc">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaryan2007&layout=compact&theme=catppuccin_mocha&bg_color=1e1e2e&hide_border=true&title_color=cba6f7&text_color=cdd6f4">
 </p>
 
 <br />
@@ -75,7 +71,7 @@
 ---
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/target/cba6f7" width="25" /> <b>ALGORITHMIC_EFFICIENCY</b>
+<img src="https://cdn.simpleicons.org/target/cba6f7" width="22" /> <b>ALGORITHMIC_EFFICIENCY</b>
 </p>
 
 <p align="center">
@@ -87,11 +83,11 @@
 ---
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/github/cba6f7" width="25" /> <b>CONTRIBUTION_GRAPH</b>
+<img src="https://cdn.simpleicons.org/github/cba6f7" width="22" /> <b>CONTRIBUTION_GRAPH</b>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajaryan2007/rajaryan2007/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/rajaryan2007/rajaryan2007/output/github-snake-dark.svg" alt="snake" width="100%">
 </p>
 
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/mocha_animated.gif" width="100%">
