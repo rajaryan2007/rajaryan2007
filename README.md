@@ -22,7 +22,7 @@
 ---
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/cpu/cba6f7" width="22" /> <b>SYSTEM_ARCHITECTURE</b>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cpu.svg" width="22" /> <b style="color:#cba6f7">SYSTEM_ARCHITECTURE</b>
 </p>
 
 <img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBicHlxbmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpx6p3CC7mS4/giphy.gif">
@@ -38,7 +38,7 @@
 ---
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/codefactor/cba6f7" width="22" /> <b>CORE_TECHNOLOGIES</b>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codefactor.svg" width="22" /> <b style="color:#cba6f7">CORE_TECHNOLOGIES</b>
 </p>
 
 <p align="center">
@@ -46,11 +46,11 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/opengl/ffffff" height="40" style="margin:10px" />
-  <img src="https://cdn.simpleicons.org/vulkan/ffffff" height="40" style="margin:10px" />
-  <img src="https://cdn.simpleicons.org/cmake/ffffff" height="40" style="margin:10px" />
-  <img src="https://cdn.simpleicons.org/linux/ffffff" height="40" style="margin:10px" />
-  <img src="https://cdn.simpleicons.org/nvidia/ffffff" height="40" style="margin:10px" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opengl.svg" height="40" style="filter: brightness(0) invert(1); margin:10px" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vulkan.svg" height="40" style="filter: brightness(0) invert(1); margin:10px" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cmake.svg" height="40" style="filter: brightness(0) invert(1); margin:10px" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg" height="40" style="filter: brightness(0) invert(1); margin:10px" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nvidia.svg" height="40" style="filter: brightness(0) invert(1); margin:10px" />
 </p>
 
 <br />
@@ -58,7 +58,7 @@
 ---
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/activitypub/cba6f7" width="22" /> <b>DEVELOPMENT_METRICS</b>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/activitypub.svg" width="22" /> <b style="color:#cba6f7">DEVELOPMENT_METRICS</b>
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@
 ---
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/target/cba6f7" width="22" /> <b>ALGORITHMIC_EFFICIENCY</b>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="22" /> <b style="color:#cba6f7">ALGORITHMIC_EFFICIENCY</b>
 </p>
 
 <p align="center">
@@ -83,7 +83,7 @@
 ---
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/github/cba6f7" width="22" /> <b>CONTRIBUTION_GRAPH</b>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="22" /> <b style="color:#cba6f7">CONTRIBUTION_GRAPH</b>
 </p>
 
 <p align="center">
