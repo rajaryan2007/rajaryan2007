@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Raj Aryan 👋</h1>
 <h3 align="center"> 💻 Future Full-Stack & Game Engine Dev</h3>
 <p align="center">
-  [GIG](animation.gif.mp4)
+  <img src="animation.gif" width="500"/>
 </p>
 
 ---
