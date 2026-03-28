@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Raj Aryan 👋</h1>
-<h3 align="center"> 💻 Future Full-Stack & Game Engine Dev</h3>
+<h3 align="center">  Full-Stack & Game Engine Dev</h3>
 
 <p align="center">
   <img src="animation.gif.gif" width="500"/>
