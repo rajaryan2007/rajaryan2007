@@ -11,7 +11,7 @@
 
 - **JavaScript**, **React**, **Node.js**, **DSA in C++**, and **Python for AI**
 - Building a cross-platform **3D Game Engine** (OpenGL + Vulkan + C++)
--  I use Arch btw
+
 
 ---
 
