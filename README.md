@@ -44,13 +44,7 @@
 
 ---
 
-### 📈 LeetCode Profile
 
-- 🔗 [rajaryan24 on LeetCode](https://leetcode.com/rajaryan24/)
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/rajaryan24?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
-</p>
 
 
  Contribution 
