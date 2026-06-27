@@ -15,10 +15,9 @@
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <p align="center">
-
 [![Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,react,nextjs,nodejs,express,nestjs,cmake,docker,git,github,postgres,mongodb,visualstudio,prisma,arch,blender&theme=light)](https://skillicons.dev)
 
 
@@ -27,30 +26,5 @@
   <img src="https://icon.icepanel.io/Technology/svg/OpenGL.svg" width="48" height="48" style="vertical-align:middle;" />
   <img src="https://www.svgrepo.com/show/354529/vulkan.svg" width="48" height="48" style="vertical-align:middle;" />
 </span>
-
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajaryan2007&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajaryan2007&theme=radical" alt="GitHub Streak" />
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaryan2007&layout=compact&theme=radical" />
-
----
-
-
-
-
- Contribution 
-
-
-![GitHub Snake Dark](https://raw.githubusercontent.com/rajaryan2007/rajaryan2007/output/github-snake-dark.svg)
-
-
-how i can add that video animation.gig.mp4 in readme
