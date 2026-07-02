@@ -9,7 +9,7 @@
 
 ### 🔥 About Me
 
-- **JavaScript**, **React**, **Node.js**, **DSA in C++**, and **Python for AI**
+- **JavaScript**, **React**, **Node.js**, **C++**, and **Python**
 - Building a cross-platform **3D Game Engine** (UNHUMAN) (OpenGL + Vulkan + C++)
 
 ---
