@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Raj Aryan 👋</h1>
+<h1 align="center">Hey there, I'm Raj Aryan </h1>
 <h3 align="center">  Full-Stack & Game Engine Dev</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-### 🔥 About Me
+###  About Me
 
 - **JavaScript**, **React**, **Node.js**, **C++**, and **Python**
 - Building a cross-platform **3D Game Engine** (UNHUMAN) (OpenGL + Vulkan + C++)
