@@ -7,7 +7,7 @@
 
 ---
 
-- **Focus:** C++, Vulkan, OpenGL, Game Engine Architecture
+- **Focus:** C++, Vulkan, OpenGL, Engine Architecture
 - **Projects:** Author of **UNHUMAN** (Cross-platform 3D Game Engine)
 - **Open Source:** Active contributor at [Blender](https://projects.blender.org/rajaryan-2) and [Mesa / Freedesktop](https://gitlab.freedesktop.org/rajaryan1492007)
 - **Tech:** C++, Python, JavaScript/TypeScript, CMake, Vulkan, OpenGL, Docker
